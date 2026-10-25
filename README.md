@@ -50,7 +50,7 @@ automated-testing-tool/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/automated-testing-tool.git
+git clone https://github.com/SamuelKilian/automated-testing-tool.git
 cd automated-testing-tool
 ```
 
